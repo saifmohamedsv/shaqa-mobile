@@ -4,7 +4,8 @@
     "web": {
       "bundler": "metro"
     },
-    "name": "shaqa-mobile",
-    "slug": "shaqa-mobile"
+    "name": "Shaqa Real-Estate",
+    "slug": "shaqa-realestate",
+    "icon": "./assets/images/logo-white.png"
   }
 }
